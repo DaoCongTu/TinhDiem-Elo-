@@ -18,7 +18,7 @@ A vs B : 2-4 Suy ra W = -2
 W0 =![image](https://user-images.githubusercontent.com/74710061/125147992-6c491580-e159-11eb-8283-978c5e7ae77c.png)
 
  
-trong đó dr bằng chênh lệch xếp hạng. 
-Vậy dr = Điểm đội chủ nhà – Điểm đội khách + (100 nếu là chủ nhà còn -100 nếu là đội khách)
-Chủ Nhà: Đội có điểm elo lớn hơn
-Đọi Khách: Đội có điểm elo nhỏ hơn
+#trong đó dr bằng chênh lệch xếp hạng. 
+#Vậy dr = Điểm đội chủ nhà – Điểm đội khách + (100 nếu là chủ nhà còn -100 nếu là đội khách)
+#Chủ Nhà: Đội có điểm elo lớn hơn
+#Đọi Khách: Đội có điểm elo nhỏ hơn
