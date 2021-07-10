@@ -1,0 +1,16 @@
+ManUtd: 1052
+Hull: 1004
+Stoke: 1004
+AstonVilla: 1004
+Everton: 1004
+Fulham: 1004
+Southampton: 1004
+Cardiff: 1004
+Chelsea: 996
+Liverpool: 996
+Arsenal: 996
+Norwich: 996
+Sunderland: 996
+WestBrom: 996
+WestHam: 996
+Swansea: 948
