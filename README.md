@@ -5,9 +5,12 @@
 
 -Trong đó:
 
- -Rn : Điểm số mới
+ Rn : Điểm số mới
+ 
  -R0 : Điểm số cũ 
+ 
  -W : Hiệu số kết quả trận đấu
+ 
  -W0 : Kết quả dự đoán
 
 2.	Hiệu số kết quả trận đấu (W)
