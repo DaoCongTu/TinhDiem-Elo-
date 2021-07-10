@@ -3,12 +3,12 @@
 Điểm số được tính bằng công thức sau:
  ![image](https://user-images.githubusercontent.com/74710061/125148001-7a973180-e159-11eb-8f51-9ef3d44bb9e7.png)
 
-#Trong đó:
+-Trong đó:
 
-Rn : Điểm số mới
-R0 : Điểm số cũ 
-W : Hiệu số kết quả trận đấu
-W0 : Kết quả dự đoán
+ -Rn : Điểm số mới
+ -R0 : Điểm số cũ 
+ -W : Hiệu số kết quả trận đấu
+ -W0 : Kết quả dự đoán
 
 2.	Hiệu số kết quả trận đấu (W)
 A vs B : 3-1 Suy ra W = 2
