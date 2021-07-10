@@ -2,8 +2,8 @@
 1.	Công thức tính
 Điểm số được tính bằng công thức sau:
  ![image](https://user-images.githubusercontent.com/74710061/125148001-7a973180-e159-11eb-8f51-9ef3d44bb9e7.png)
-//n
-Trong đó:
+
+#Trong đó:
 
 Rn : Điểm số mới
 R0 : Điểm số cũ 
